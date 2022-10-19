@@ -1,4 +1,4 @@
-- 👋 hi, I’m @mothesaintt
+- 👋 hi, I’m Mirireoluwa
 - 👀 I’m interested in music, architecture, fashion, design, art and games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate anywhere
