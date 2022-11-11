@@ -1,6 +1,6 @@
 - 👋 hi, I’m Mirireoluwa
 - 👀 I’m interested in music, architecture, fashion, design, art and games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and rust
 - 💞️ I’m looking to collaborate anywhere
 - 📫 you can reach me via email: olukannichristian@gmail.com
 
